@@ -1,6 +1,0 @@
-checkpoints/
-log/
-save/
-.ipynb*/
-__pycache__/
-.gitignore
